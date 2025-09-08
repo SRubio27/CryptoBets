@@ -1,7 +1,7 @@
-# 🂮 CryptoBets
+# K♠ CryptoBets
 A **decentralized betting smart contract** on Ethereum, built with Solidity and tested with Foundry. Users can **deposit ETH, create bets, participate in wagers, and withdraw winnings**, all managed sec---
 ## ✨ Features
-- 🪙 **Deposit & Withdraw ETH** with per-user balance tracking.
+- 💰 **Deposit & Withdraw ETH** with per-user balance tracking.
 - 📄 **Bet Creation** restricted to the contract owner (`Ownable`).
 - 🎲 **Place wagers** on open bets by choosing a team and an amount.
 - 🏆 **Resolve bets** with automated reward distribution based on odds.
